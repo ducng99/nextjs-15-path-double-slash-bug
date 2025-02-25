@@ -1,0 +1,1 @@
+# nextjs-15-path-double-slash-bug
